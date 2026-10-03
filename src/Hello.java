@@ -6,7 +6,7 @@ public static void main(String[] arg) {
 
 System.out.println("Hello World");
 System.out.println("Hello World");
-System.out.println("Programming Two Did This ");
+System.out.println("Programmer 1 did this Did This ");
 	
 	
 }
